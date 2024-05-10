@@ -21,6 +21,14 @@ Este proyecto es un web scraper que extrae información sobre productos de Merca
 <img src="./screenshots/MLScraperCTK.png">
 
 
+## TODO
+
+### Interfaz
+- [ ] Agregar iconos
+- [ ] Mejorar legibilidad
+- [ ] Formatear elementos  
+
+
 
 ## Feedback
 
